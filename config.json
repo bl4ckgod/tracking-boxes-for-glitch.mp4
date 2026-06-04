@@ -1,0 +1,11 @@
+{
+    "input_path": "C:/Users/Panda/Desktop/tracking/555.mp4",
+    "output_path": "C:/Users/Panda/Desktop/tracking/inputs/111.mp4",
+    "max_trackers": 15,
+    "redetection_interval": 30,
+    "box_size": 50,
+    "words": [
+        "????"
+    ],
+    "current_lang": "ru"
+}
